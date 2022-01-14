@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgatsby_starter_default=self.webpackChunkgatsby_starter_default||[]).push([[930],{2556:function(t,e,a){a.r(e);var n=(0,a(9692).createGlobalStyle)(["*{font-family:'EB Garamond';margin:0;padding:0;min-height:0vw;"," body{background:#FFF0DB}h1{font-size:80px}h2{font-size:64px}h3{font-size:44px}h4{font-size:32px}p{font-size:20px}a{text-decoration:none}li{font-size:20px}}"],"");e.default=n}}]);
+//# sourceMappingURL=component---src-pages-layouts-global-style-js-c1eaf55eeddb44acb618.js.map
